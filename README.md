@@ -18,13 +18,13 @@ ESCAPE FROM PRIPYAT is a PvPvE DayZ server Based on S.T.A.L.K.E.R. G.A.M.M.A. wi
 
 ## Server Features
 
-        - PvPvE
-        + Factions
-        ⋅⋅* Realistic S.T.A.L.K.E.R. Map
-        ⋅⋅* Loosely based on S.T.A.L.K.E.R. G.A.M.M.A.
-        ⋅⋅* Escape From Tarkov Gear and Items
-        ⋅⋅* Extractions
-        ⋅⋅* Mutants
+        * PvPvE
+        * Factions
+        * Realistic S.T.A.L.K.E.R. Map
+        * Loosely based on S.T.A.L.K.E.R. G.A.M.M.A.
+        * Escape From Tarkov Gear and Items
+        * Extractions
+        * Mutants
         ⋅⋅* S.T.A.L.K.E.R. NPC Zombies
         ⋅⋅* Radzone
         ⋅⋅* Base Building
