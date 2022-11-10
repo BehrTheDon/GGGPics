@@ -9,6 +9,8 @@ Pictures used for Our DayZ Server Loading Screens on DZSA
 
 By Goon Gaming Group [Our Discord](https://discord.gg/goongaminggroup "GGG Discord")
 
+[![Hype Video](http://img.youtube.com/vi/r_9f1_z8y1U&t=421s/0.jpg)](http://www.youtube.com/watch?v=r_9f1_z8y1U&t=421s)
+
 ![alt text](https://github.com/BehrTheDon/GGGPics/blob/main/EscapeFromPripyatLoadingScreen.png?raw=true "Loading Screen")
 
 ## Server Description
