@@ -38,4 +38,4 @@ ESCAPE FROM PRIPYAT is a PvPvE DayZ server Based on S.T.A.L.K.E.R. G.A.M.M.A. wi
         - Tactical Flava Mod
         - SNAFU Weapons
 
-![alt text](https://github.com/BehrTheDon/GGGPics/blob/main/EscapeFromPripyatLoadingScreen.png?raw=true "Stalker Hype")
+![alt text](https://github.com/BehrTheDon/GGGPics/blob/main/EFP2.png?raw=true "Stalker Hype")
