@@ -9,6 +9,8 @@ Pictures used for Our DayZ Server Loading Screens on DZSA
 
 By Goon Gaming Group [Our Discord](https://discord.gg/goongaminggroup "GGG Discord")
 
+> Goon Gaming Group is a community which was founded in March 2022. Our Servers take core ideas from games like Escape From Tarkov and S.T.A.L.K.E.R. and bring them to DayZ. Please Join [Our Discord](https://discord.gg/goongaminggroup "GoonGamingGroup Discord") To stay up to date on updates/announcemnts!
+
 ![alt text](https://github.com/BehrTheDon/GGGPics/blob/main/EFP2.png?raw=true "Stalker Hype")
 
 ## Server Description
