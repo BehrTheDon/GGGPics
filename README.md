@@ -9,7 +9,7 @@ Pictures used for Our DayZ Server Loading Screens on DZSA
 
 By Goon Gaming Group [Our Discord](https://discord.gg/goongaminggroup "GGG Discord")
 
-![alt text](https://github.com/BehrTheDon/GGGPics/blob/main/EscapeFromPripyatLoadingScreen.png?raw=true "Loading Screen")
+![alt text](https://github.com/BehrTheDon/GGGPics/blob/main/EFP2.png?raw=true "Stalker Hype")
 
 ## Server Description
 
@@ -18,24 +18,31 @@ ESCAPE FROM PRIPYAT is a PvPvE DayZ server Based on S.T.A.L.K.E.R. G.A.M.M.A. wi
 
 ## Server Features
 
-        - PvPvE
-        - Factions
-        - Realistic S.T.A.L.K.E.R. Map
-        - Loosely based on S.T.A.L.K.E.R. G.A.M.M.A.
-        - Escape From Tarkov Gear and Items
-        - Extractions
-        - Mutants
-        - S.T.A.L.K.E.R. NPC Zombies
-        - Radzone
-        - Base Building
-        - S.T.A.L.K.E.R. PDA Traders
-        - S.T.A.L.K.E.R. PDA Menu
-        - Nine S.T.A.L.K.E.R. Factions
-        - Vechicles 3PP
-        - S.T.A.L.K.E.R. Lootable Stashes and Bodies
-        - Dogtags
-        - RUSForma_vehicles Mod
-        - Tactical Flava Mod
-        - SNAFU Weapons
+        - ESCAPE FROM TARKOV LORE, GEAR, AND ITEMS
+        - EXTRACTIONS
+        - BANKING
+        - BASEBUILDINGPLUS
+        - FACTIONS
+        - SECURE CONTAINERS
+        - GROUPS
+        - FIRST PERSON ONLY
+        - MUTANTS
+        - RADZONE
+        - VECHICLE 3PP
+        - DOGTAGS
+        - KEYCARDS
+        - KEYCRATES
+        - AUTORUN
+        - BREACHING CHARGE REMASTERED
+        - UNLIMITED STAMINA
+        - CUSTOM MAP EDITS
+        - AIRDROPS
+        - CUSTOM CLOTHING
+        - CUSTOM HUD
+        - EAR PLUGS
+        - HELICOPTERS
+        - NO VEHICLE DAMAGE
+        - TACTICAL FLAVA
+        - SNAFU WEAPONS
 
-![alt text](https://github.com/BehrTheDon/GGGPics/blob/main/EFP2.png?raw=true "Stalker Hype")
+![alt text](https://github.com/BehrTheDon/GGGPics/blob/main/EscapeFromPripyatLoadingScreen.png?raw=true "Loading Screen")
