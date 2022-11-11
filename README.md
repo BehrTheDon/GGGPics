@@ -7,7 +7,7 @@ Pictures used for Our DayZ Server Loading Screens on DZSA
 
 # ESCAPE FROM PRIPYAT
 
-By Goon Gaming Group [Our Discord](https://discord.gg/goongaminggroup "GGG Discord")
+By [Goon Gaming Group](https://discord.gg/goongaminggroup "GoonGamingGroup Discord")
 
 
 > Goon Gaming Group is a community which was founded in March 2022. Our Servers take core ideas from games like Escape From Tarkov, S.T.A.L.K.E.R., and Metro and brings them to DayZ. Our Servers are 1PP Servers with a Heavily altered experience from Vanilla DayZ. Please Join [Our Discord](https://discord.gg/goongaminggroup "GoonGamingGroup Discord") To stay up to date on updates/announcements!
