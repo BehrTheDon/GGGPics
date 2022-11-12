@@ -53,7 +53,6 @@ By [Goon Gaming Group](https://discord.gg/goongaminggroup "GoonGamingGroup Disco
 ESCAPE FROM PRIPYAT is a PvPvE DayZ server Based on S.T.A.L.K.E.R. G.A.M.M.A. with addition to some items from Escape From Tarkov, We also feature a extraction mod that will take you to a safezone where you can buy a Safe hideout and have access to safe traders, Then you can Extract from the Safezone back into the zone where you will find yourself in the Safezone Starting Village. We have S.T.A.L.K.E.R. Mutants and Faction Zombies, As well as S.T.A.L.K.E.R. NPCs in all of the primary areas of the map!
 
 
-### EFP S.T.A.L.K.E.R. Pictures
 
 ![alt text](https://github.com/BehrTheDon/GGGPics/blob/main/EFP2.png?raw=true "Stalker Pic")
 
