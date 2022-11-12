@@ -13,7 +13,7 @@ By [Goon Gaming Group](https://discord.gg/goongaminggroup "GoonGamingGroup Disco
 > Goon Gaming Group is a community which was founded in March 2022. Our Servers take core ideas from games like Escape From Tarkov, S.T.A.L.K.E.R., and Metro and brings them to DayZ. Our Servers are 1PP Servers with a Heavily altered experience from Vanilla DayZ. Please Join [Our Discord](https://discord.gg/goongaminggroup "GoonGamingGroup Discord") To stay up to date on updates/announcements!
 
 
-![alt text](https://github.com/BehrTheDon/GGGPics/blob/main/EFP2.png?raw=true "Stalker Hype")
+![alt text](https://github.com/BehrTheDon/GGGPics/blob/main/EscapeFromPripyatLoadingScreen.png?raw=true "Loading Screen")
 
 
 ## Server Features
@@ -55,7 +55,7 @@ ESCAPE FROM PRIPYAT is a PvPvE DayZ server Based on S.T.A.L.K.E.R. G.A.M.M.A. wi
 
 ### Loading Screen
 
-![alt text](https://github.com/BehrTheDon/GGGPics/blob/main/EscapeFromPripyatLoadingScreen.png?raw=true "Loading Screen")
+![alt text](https://github.com/BehrTheDon/GGGPics/blob/main/EFP2.png?raw=true "Stalker Pic")
 
 ![alt text](https://github.com/BehrTheDon/GGGPics/blob/main/EFP3.png?raw=true "Stalker Pic")
 
